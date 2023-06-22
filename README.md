@@ -9,3 +9,5 @@
  I like ice cream, pizza, sleep
 
  I'm a teacher 
+
+I like animals
